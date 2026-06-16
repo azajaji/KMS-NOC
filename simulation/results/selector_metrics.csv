@@ -1,0 +1,5 @@
+condition,n,selection_accuracy_strict,selection_accuracy_lenient
+C1_free_text,40,0.35,0.625
+C2_metadata_filtered,40,0.5,0.925
+C3_hybrid,40,0.65,0.975
+C4_generic_taxonomy,40,0.425,0.625

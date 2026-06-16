@@ -1,0 +1,21 @@
+code,item_text,construct,research_question,response_type
+Q1,I can find a required technical document within 60 seconds.,Knowledge Accessibility,RQ1,likert_1_5
+Q2,I can quickly find solutions from past incidents when needed.,Retrieval Efficiency,RQ3,likert_1_5
+Q3,I know exactly where project and operational data live.,Knowledge Accessibility,RQ1,likert_1_5
+Q4,I trust the shared system enough to stop keeping personal copies.,Documentation Quality,RQ2,likert_1_5
+Q5,I am confident the file I open is the latest master version.,Documentation Quality,RQ2,likert_1_5
+Q6,Each document clearly shows its author/owner.,Documentation Quality,RQ2,likert_1_5
+Q7,The knowledge base is updated promptly when standards change.,Documentation Quality,RQ2,likert_1_5
+Q8,Obsolete data are clearly marked or archived.,Documentation Quality,RQ2,likert_1_5
+Q9,Past-incident references reduce my diagnosis time.,Retrieval Efficiency,RQ3,likert_1_5
+Q10,The KMS interface is intuitive and easy to navigate.,Knowledge Accessibility,RQ1,likert_1_5
+Q11,I reuse existing troubleshooting guides when handling incidents.,Knowledge Reuse,RQ2,likert_1_5
+Q12,Lessons learned are easy to locate and apply.,Knowledge Reuse,RQ2,likert_1_5
+Q13,The system reduces the recurrence of repeated incidents.,Knowledge Reuse,RQ2,likert_1_5
+Q14,I am motivated to document my solutions in the system.,Knowledge Reuse,RQ2,likert_1_5
+Q15,It is easier to share expertise with new team members.,Knowledge Reuse,RQ2,likert_1_5
+Q16,Overall operational efficiency in the NOC has improved.,Operational Efficiency,RQ2,likert_1_5
+Q17,I save measurable time per incident using the KMS.,Retrieval Efficiency,RQ3,likert_1_5
+Q18,How long does it typically take to retrieve a needed document?,Retrieval Efficiency,RQ3,categorical_4band
+Q19,How frequently do you encounter incidents already documented or resolved?,Knowledge Reuse,RQ2,categorical_4band
+Q20,"Overall, working with the KMS feels efficient.",Knowledge Accessibility,RQ1,likert_1_5
